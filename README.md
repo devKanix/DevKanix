@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/3o6ozpQfK9jOYG7D24/giphy.gif" width="300" /></td>
-    <td><img src="https://media.giphy.com/media/3o6Zt6k8qDmm6F0t88/giphy.gif" width="300" /></td>
-    <td><img src="https://media.giphy.com/media/l0HlZgL3WVu9js9ek/giphy.gif" width="300" /></td>
+    <td><img src="https://media.giphy.com/media/3o6Zt7ROn5xlL7v2wM/giphy.gif" width="300" alt="Coding Fun 1" /></td>
+    <td><img src="https://media.giphy.com/media/3o6ZsWiZ8bfrq4pXFC/giphy.gif" width="300" alt="Coding Fun 2" /></td>
+    <td><img src="https://media.giphy.com/media/3o6fJq5RokgwM8r8GO/giphy.gif" width="300" alt="Coding Fun 3" /></td>
   </tr>
 </table>
 
