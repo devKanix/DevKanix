@@ -18,7 +18,7 @@ Hi 👋 My name is Kanishk Chaudhary
 * ✉️  You can contact me at [opkanix@gmail.com](mailto:opkanix@gmail.com)
 * 🧠  I'm learning Next.js, DSA, AI and Much More.
 
-<a href="https://www.github.com/SyedMoin-lab" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/devkanix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Tools & Technologies
