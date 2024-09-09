@@ -1,12 +1,10 @@
-
 <table>
   <tr>
-    <td><img src="https://i.imgur.com/Vu2oAGq.png" width="300" /></td>
-    <td><img src="https://i.imgur.com/Z1UZDTm.png" width="300" /></td>
-    <td><img src="https://i.imgur.com/51aLwLl.png" width="300" /></td>
+    <td><img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*t7B_zBzQ2HUmEbcE4R9A5g.png" width="300" /></td>
+    <td><img src="https://img.icons8.com/ios/452/java-coffee-cup-logo.png" width="300" /></td>
+    <td><img src="https://img.icons8.com/ios/452/mern-stack.png" width="300" /></td>
   </tr>
 </table>
-
 
 
 
