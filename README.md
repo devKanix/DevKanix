@@ -1,10 +1,11 @@
 <table>
   <tr>
-    <td><img src="https://example.com/animated-dsa-badge.gif" width="300" /></td>
-    <td><img src="https://example.com/animated-java-badge.gif" width="300" /></td>
-    <td><img src="https://example.com/animated-mern-badge.gif" width="300" /></td>
+    <td><img src="https://media.giphy.com/media/3o6ozpQfK9jOYG7D24/giphy.gif" width="300" /></td>
+    <td><img src="https://media.giphy.com/media/3o6Zt6k8qDmm6F0t88/giphy.gif" width="300" /></td>
+    <td><img src="https://media.giphy.com/media/l0HlZgL3WVu9js9ek/giphy.gif" width="300" /></td>
   </tr>
 </table>
+
 
 
 
@@ -53,6 +54,6 @@ src="https://img.shields.io/github/followers/devkanix?logo=github&style=for-the-
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/zcxean3jss"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></li>
 
 </ul>
