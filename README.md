@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=python&logoColor=white" width="300" /></td>
+    <td><img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=java&logoColor=white" width="300" /></td>
     <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="300" /></td>
     <td><img src="https://img.shields.io/badge/MERN-00BFAE?style=for-the-badge&logo=mern&logoColor=white" width="300" /></td>
   </tr>
