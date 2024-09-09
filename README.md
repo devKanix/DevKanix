@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=java&logoColor=white" width="300" /></td>
-    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="300" /></td>
-    <td><img src="https://img.shields.io/badge/MERN-00BFAE?style=for-the-badge&logo=mern&logoColor=white" width="300" /></td>
+    <td><img src="https://example.com/animated-dsa-badge.gif" width="300" /></td>
+    <td><img src="https://example.com/animated-java-badge.gif" width="300" /></td>
+    <td><img src="https://example.com/animated-mern-badge.gif" width="300" /></td>
   </tr>
 </table>
 
@@ -19,7 +19,7 @@ Hi 👋 My name is Kanishk Chaudhary
 * 🧠  I'm learning Next.js, DSA, AI and Much More.
 
 <a href="https://www.github.com/devkanix" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/devkanix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Tools & Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/devkanix" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkanix&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/devkanix" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkanix&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
