@@ -1,10 +1,12 @@
 
 <table>
   <tr>
-    <td><img src="https://i.pinimg.com/564x/4a/35/3d/4a353d28980b38b74c21d49240a7845a.jpg" width="300" /></td>
-    <td><img src="https://i.pinimg.com/564x/b4/0d/54/b40d543e6b9fef80aae27000c81a4e88.jpg" width="300" /></td>
-    <td><img src="https://i.pinimg.com/564x/7c/21/3f/7c213fa8da2089132d1ffa883cc6d580.jpg" width="300" /></td>
+    <td><img src="https://i.imgur.com/Vu2oAGq.png" width="300" /></td>
+    <td><img src="https://i.imgur.com/Z1UZDTm.png" width="300" /></td>
+    <td><img src="https://i.imgur.com/51aLwLl.png" width="300" /></td>
+  </tr>
 </table>
+
 
 
 
