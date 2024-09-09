@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td><img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*t7B_zBzQ2HUmEbcE4R9A5g.png" width="300" /></td>
-    <td><img src="https://img.icons8.com/ios/452/java-coffee-cup-logo.png" width="300" /></td>
-    <td><img src="https://img.icons8.com/ios/452/mern-stack.png" width="300" /></td>
+    <td><img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=python&logoColor=white" width="300" /></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="300" /></td>
+    <td><img src="https://img.shields.io/badge/MERN-00BFAE?style=for-the-badge&logo=mern&logoColor=white" width="300" /></td>
   </tr>
 </table>
 
