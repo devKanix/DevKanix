@@ -9,12 +9,9 @@ Hi 👋 My name is Kanishk Chaudhary
 
 ![](https://komarev.com/ghpvc/?username=devkanix)
 
-* 🌍  I'm based in Harayana, Gurgaon, India
+* 🌍  I'm from Meerut but live in Gurgaon, India
 * ✉️  You can contact me at [opkanix@gmail.com](mailto:opkanix@gmail.com)
-* 🧠  I'm learning Next.js, DSA, AI and Much More.
-
-<a href="https://www.github.com/devkanix" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/devkanix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🧠  I'm currently learning MERN Stack, DSA, AI and Much More.
 
 ### Tools & Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,5 +42,5 @@ src="https://img.shields.io/github/followers/devkanix?logo=github&style=for-the-
 <a href="https://github.com/devkanix" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkanix&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p align="center">
-  <img src="flame.gif" alt="Thank You for visiting my profile">
+  <img src="flames.gif" alt="Thank You for visiting my profile">
 </p>
