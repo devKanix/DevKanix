@@ -29,6 +29,8 @@ Hi 👋 My name is Kanishk Chaudhary
 ![DSA](https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Blender3D](https://img.shields.io/badge/Blender-00BFAE?style=for-the-badge&logo=blender&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Expressjs-00BFAE?style=for-the-badge&logo=expressjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-00BFAE?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
