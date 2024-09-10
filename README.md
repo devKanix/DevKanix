@@ -42,5 +42,6 @@ Hi 👋 My name is Kanishk Chaudhary
 <a href="https://github.com/devkanix" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkanix&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p align="center">
-  <img src="flames.gif" alt="Thank You for visiting my profile">
+	Thank You for visiting my profile
+  <img src="flames.gif">
 </p>
