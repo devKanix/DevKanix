@@ -45,7 +45,11 @@ Welcome to my profile!
 
 ### Badges
 
-!(https://img.shields.io/github/badges/devkanix?style=social)
+[![First Pull Request](https://img.shields.io/badge/First%20Pull%20Request-Merged-brightgreen)](https://github.com/devKanix?tab=achievements)
+[![Rising Star](https://img.shields.io/badge/Rising%20Star-Achievement%20Unlocked-brightgreen)](https://github.com/devKanix?tab=achievements)
+[![Expert Contributor](https://img.shields.io/badge/Expert%20Contributor-Active%20Contributions-brightgreen)](https://github.com/devKanix?tab=achievements)
+[![Community Helper](https://img.shields.io/badge/Community%20Helper-Helping%20Others-brightgreen)](https://github.com/devKanix?tab=achievements)
+
 
 <b>My GitHub Stats</b>
 
