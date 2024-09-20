@@ -8,6 +8,11 @@ Hi 👋 My name is Kanishk Chaudhary
 ==============================
 
 ![](https://komarev.com/ghpvc/?username=devkanix)
+![GitHub followers](https://img.shields.io/github/followers/devkanix?style=social)
+![GitHub stars](https://img.shields.io/github/stars/devkanix/repository?style=social)
+
+Welcome to my profile!
+
 
 * 🌍  I'm from Meerut but live in Gurgaon, India
 * ✉️  You can contact me at [opkanix@gmail.com](mailto:opkanix@gmail.com)
@@ -39,6 +44,8 @@ Hi 👋 My name is Kanishk Chaudhary
 <p align="left"> <a href="https://www.github.com/devkanix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kanishk-chaudhary/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+
+!(https://img.shields.io/github/badges/devkanix?style=social)
 
 <b>My GitHub Stats</b>
 
