@@ -9,7 +9,7 @@ Hi 👋 My name is Kanishk Chaudhary
 
 ![](https://komarev.com/ghpvc/?username=devkanix)
 ![GitHub followers](https://img.shields.io/github/followers/devkanix?style=social)
-![GitHub stars](https://img.shields.io/github/stars/devkanix/Honestly-Nvrmind?style=social)
+![GitHub stars](https://img.shields.io/github/stars/devKanix/Serverless-Messaging-Backend-with--AWS?style=social)
 
 Welcome to my profile!
 
