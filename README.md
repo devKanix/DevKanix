@@ -51,7 +51,7 @@ Welcome to my profile!
 [![Community Helper](https://img.shields.io/badge/Community%20Helper-Helping%20Others-brightgreen)](https://github.com/devKanix?tab=achievements)
 
 ## LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/kanishk-chaudhary/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kanishk-chaudhary?ext=contest)
 
 <b>My GitHub Stats</b>
 
