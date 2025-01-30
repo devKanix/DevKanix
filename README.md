@@ -50,6 +50,8 @@ Welcome to my profile!
 [![Expert Contributor](https://img.shields.io/badge/Expert%20Contributor-Active%20Contributions-brightgreen)](https://github.com/devKanix?tab=achievements)
 [![Community Helper](https://img.shields.io/badge/Community%20Helper-Helping%20Others-brightgreen)](https://github.com/devKanix?tab=achievements)
 
+## LeetCode Profile
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/kanishk-chaudhary/)
 
 <b>My GitHub Stats</b>
 
