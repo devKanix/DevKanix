@@ -45,9 +45,8 @@ Welcome to my profile!
 
 ## 📝 Latest Medium Articles
 <a href="https://medium.com/@kanishk-chaudhary" target="_blank">
-    <img src="https://miro.medium.com/fit/c/176/176/your_profile_image_url" width="150" height="150" alt="Medium Profile">
+    <img src="https://miro.medium.com/fit/c/176/176/[your_profile_image_url](https://kanishk-chaudhary.medium.com/)" width="150" height="150" alt="Medium Profile">
 </a>
-✍️ Read my articles on [Medium](https://medium.com/@kanishk-chaudhary)
 
 
 ### Badges
