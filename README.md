@@ -43,12 +43,9 @@ Welcome to my profile!
 
 <p align="left"> <a href="https://www.github.com/devkanix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kanishk-chaudhary/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## LinkedIn Profile Progress  
-Connections: ![██████████░░░░░░ 70%](https://img.shields.io/badge/-70%25-blue)  
-Posts: ![█████░░░░░░░░░ 30%](https://img.shields.io/badge/-30%25-orange)  
-Followers: ![███████████░░░░ 80%](https://img.shields.io/badge/-80%25-green)  
+## LinkedIn Profile  
+[![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=View%20Profile&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-chaudhary/)
 
-🔗 [View My LinkedIn Profile](https://www.linkedin.com/in/kanishk-chaudhary/)
 
 
 ### Badges
