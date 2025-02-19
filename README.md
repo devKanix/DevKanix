@@ -36,6 +36,9 @@ Welcome to my profile!
 ![Blender3D](https://img.shields.io/badge/Blender-00BFAE?style=for-the-badge&logo=blender&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Expressjs-00BFAE?style=for-the-badge&logo=expressjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-00BFAE?style=for-the-badge&logo=typescript&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/Wordpress-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![EXPRESSION ENGINE](https://img.shields.io/badge/Expression-Engine-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
@@ -52,6 +55,7 @@ Welcome to my profile!
 
 ## LeetCode Profile and My GitHub Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kanishk-chaudhary?ext=contest)
+
 <a href="https://github.com/devkanix" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkanix&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Thank You for visiting my profile
