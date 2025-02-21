@@ -59,7 +59,7 @@ Welcome to my profile!
 
 ## Buy me a coffee!
 <a href="https://www.buymeacoffee.com/kanishkchaudhary" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A MacBook 💻" style="width: 200px;">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 200px;">
 </a> 
 
 ### Thank You for visiting my profile
