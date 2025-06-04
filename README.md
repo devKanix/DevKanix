@@ -4,14 +4,13 @@
 	<br>
 </div>
 
-Hi 👋 My name is Kanishk Chaudhary
-==============================
+# Hi 👋 My name is Kanishk Chaudhary
 
 ![](https://komarev.com/ghpvc/?username=devkanix)
 ![GitHub followers](https://img.shields.io/github/followers/devkanix?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/devKanix/Serverless-Messaging-Backend-with--AWS?style=social)
 
-Welcome to my profile!
+## Welcome to my profile!
 
 
 * 🌍  I'm from Meerut but live in Gurgaon, India
@@ -40,7 +39,9 @@ Welcome to my profile!
 ![EXPRESSION ENGINE](https://img.shields.io/badge/Expression-Engine-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## Commits Status
 
+![GitHub Snake](https://raw.githubusercontent.com/devkanix/devkanix/refs/heads/output/github-snake-dark.svg)
 
 ### Socials
 
